@@ -1,2 +1,3 @@
 # Acp_lib
-ứng dụng cơ chế của TCP/IP, thư viện hỗ trợ phân luồng dữ liệu
+Apply TCP/IP mechanism to build a library to support data streaming in communication
+
